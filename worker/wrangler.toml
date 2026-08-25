@@ -1,0 +1,6 @@
+name = "charting-twelve-data-proxy"
+main = "twelve-data-proxy.js"
+compatibility_date = "2026-08-25"
+
+[vars]
+# Set TWELVE_DATA_API_KEY as a Worker secret; do not put the real key here.
